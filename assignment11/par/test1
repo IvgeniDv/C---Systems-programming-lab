@@ -1,0 +1,17 @@
+TEST NO 1
+
+Perfectly balanced input:
+
+if (x > y) 
+/*
+	this is a  comment on multiple lines [}
+/***/
+
+"this is a string with unbalanced brackets (({]"
+
+z[(1)] = 0;
+	printf("x>y\n\%)())))[");
+
+(()){}{}{}[][(())]
+
+in this input we have more than 10 lines ~!!!#@$%&^%*
